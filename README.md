@@ -1,4 +1,4 @@
-[![Top Langs](https://vercel.app)](https://github.com)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lahanig&layout=compact)](https://github.com/Lahanig/github-readme-stats)
 
 <!--
 **Lahanig/Lahanig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
