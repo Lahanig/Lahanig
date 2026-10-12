@@ -1,10 +1,8 @@
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lahanig&layout=compact&theme=calm&cache_seconds=1800 )](https://github.com/Lahanig/github-readme-stats)
 <!--
 [![Profile Stat](https://github-stats-extended.vercel.app/api/?username=Lahanig&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Kaibi%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage)](https://github.com/Lahanig/github-readme-stats)
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lahanig&layout=compact&theme=calm)](https://github.com/Lahanig/github-readme-stats)
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lahanig&layout=compact&theme=calm)](https://github.com/Lahanig/github-readme-stats)
-
 -->
 <!--
 **Lahanig/Lahanig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
